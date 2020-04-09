@@ -5,7 +5,7 @@
 	public static void  main(String args[])
 	{
 		int a=45,b=66,c=39;
-		if(a<b)
+		if(a>b)
 		{
 			if(a>c)
 			{

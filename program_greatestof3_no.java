@@ -1,4 +1,4 @@
-/*W.A.P in JAVA to find the greatest of  three numbers*\
+/*W.A.P in JAVA to find the greatest of  three numbers*/
 
  public class Greatest_3
 {
